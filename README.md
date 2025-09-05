@@ -1,6 +1,6 @@
 # Task-3
-# SQL Retail Dataset Practice Project
-## 📌 Project Overview
+## **SQL Retail Dataset Practice Project**
+### 📌 Project Overview
 
 This project is designed to learn and apply basic SQL operations on a mock retail dataset. The dataset simulates a small retail business with three key tables:
 
@@ -14,7 +14,7 @@ This project is designed to learn and apply basic SQL operations on a mock retai
 - Orders_task_3  – Contains order transactions (ID, customer, product, date, quantity) : [orders_task_3.csv](https://github.com/user-attachments/files/22167356/orders_task_3.csv)
 
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 Practiced how to use SQL commands such as:
 
@@ -32,11 +32,11 @@ Practiced how to use SQL commands such as:
 
 - Date functions (MONTH, EXTRACT, DATEDIFF) → Analyze time-based trends
 
-## 🛠 Tools Required
+### 🛠 Tools Required
 
 - MySQL Work bench, SQL server
 
-### 📊 Sample Insights Generated
+### 📊 Insights Generated
 
 - Top customers by total spending
 
