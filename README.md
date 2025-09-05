@@ -1,4 +1,4 @@
-[customers_task_3.csv](https://github.com/user-attachments/files/22167353/customers_task_3.csv)# Task-3
+# Task-3
 # SQL Retail Dataset Practice Project
 ## 📌 Project Overview
 
@@ -6,9 +6,7 @@ This project is designed to learn and apply basic SQL operations on a mock retai
 
 #### 📂 Datasets :
 
-- Customers_task_3 – Contains customer details (ID, name, city) :[Uploading cu[task_3.sql](https://github.com/user-attachments/files/22167355/task_3.sql)
-
-stomers_task_3.csv…]()
+- Customers_task_3 – Contains customer details (ID, name, city) : [customers_task_3.csv](https://github.com/user-attachments/files/22167353/customers_task_3.csv)
 
 
 - Products_task_3  – Contains product catalog (ID, name, category, price) :[products_task_3.csv](https://github.com/user-attachments/files/22167357/products_task_3.csv)
