@@ -36,7 +36,7 @@ Practiced how to use SQL commands such as:
 
 - MySQL Work bench, SQL server
 
-### 📊 Sample Insights You Can Generate
+### 📊 Sample Insights Generated
 
 - Top customers by total spending
 
