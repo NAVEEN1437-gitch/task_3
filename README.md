@@ -13,11 +13,10 @@ This project is designed to learn and apply basic SQL operations on a mock retai
 
 - Orders_task_3  – Contains order transactions (ID, customer, product, date, quantity) : [orders_task_3.csv](https://github.com/user-attachments/files/22167356/orders_task_3.csv)
 
-Using this dataset, you can practice essential SQL queries such as filtering, sorting, grouping, and joining tables to extract meaningful business insights.
 
 ## 🎯 Objectives
 
-Understand how to use SQL commands such as:
+Practiced how to use SQL commands such as:
 
 - SELECT → Retrieve specific data
 
@@ -35,9 +34,7 @@ Understand how to use SQL commands such as:
 
 ## 🛠 Tools Required
 
-Any SQL database engine:
-
-- MySQL Work bench
+- MySQL Work bench, SQL server
 
 ### 📊 Sample Insights You Can Generate
 
